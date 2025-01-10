@@ -11,4 +11,5 @@ A script to sync tasks created in a notion database to Todoist
 7. Change the code according to the columns in your notion database.
 8. Run the program and voila!
 
+\
 Created by Dimasha (@dimbo.ai)
