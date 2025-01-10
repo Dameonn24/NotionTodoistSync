@@ -9,7 +9,7 @@ A script to sync tasks created in a notion database to Todoist
 5. Add your Notion Database Id - https://stackoverflow.com/questions/67728038/where-to-find-database-id-for-my-database-in-notion
 6. (Optional) Add your Todoist Project Id
 7. Change the code according to the columns in your notion database.
-8. Run the program and voila!
+8. Run the program using `python NotionTodoistSync.py` and Voila!
 
 \
 Created by Dimasha (@dimbo.ai)
