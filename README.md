@@ -12,4 +12,4 @@ A script to sync tasks created in a notion database to Todoist
 8. Run the program and voila!
 
 Hope it helps! 
-- Dimasha (dimbo.ai)
+Created by Dimasha (@dimbo.ai)
